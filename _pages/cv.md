@@ -1,5 +1,5 @@
 ---
-layout: http://fortawesome.github.io/Font-Awesome/
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
