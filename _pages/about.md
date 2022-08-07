@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "NOTE: THIS WEBSITE IS BEING UPDATED"
+subtitle: Intern @ SonyAI | NUS Alumna
 
 profile:
   align: right
@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there!\\
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently a Research Intern at `SonyAI`. I graduated from the Electrical and Computer Engineering Department at [National University of Singapore](https://www.nus.edu.sg/), where I received an M.Sc. degree in Electrical Engineering, specializing in Controls & Automation. Here, I was supervised by [Prof. Sam Shuzhi Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) and worked on my master’s thesis under his advice at the Control & Simulation Lab, focused on developing new motion planning schemes for an omni-directional mobile manipulator.\\
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to this, I obtained my bachelor’s degree in Mechatronics Engineering with a minor in Robotics & Automation from [Manipal Academy of Higher Education (MAHE), Dubai](https://www.manipaldubai.com/). My undergraduate thesis was focused on the development of an autonomous robot, done under the mentorship of [Prof. Royson Dsouza](https://www.linkedin.com/in/royson-dsouza-a20092141/?originalSubdomain=fi) at the Manipal Centre of Robotics Excellence Laboratory.
