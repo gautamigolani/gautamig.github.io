@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/GPG_CV.pdf
+permalink: /assets/pdf/GPG_CV.pdf
 title: cv
 nav: true
 nav_order: 4
