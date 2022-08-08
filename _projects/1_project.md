@@ -7,8 +7,8 @@ importance: 1
 category: academic
 ---
 
-<em>Duration</em>: March 2019 - November 2019
+<b>Duration</b>: March 2019 - November 2019
 
-<em>Supervisor</em>: Prof. Sam Shuzhi Ge
+<b>Supervisor</b>: Prof. Sam Shuzhi Ge
 
 Details on the project will be added soon.

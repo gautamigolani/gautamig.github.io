@@ -7,11 +7,11 @@ importance: 2
 category: academic
 ---
 
-<em>Duration</em>: March 2019 - November 2019
+<b>Duration</b>: March 2019 - November 2019
 
-<em>Supervisor</em>: Prof. Sam Shuzhi Ge
+<b>Supervisor</b>: Prof. Sam Shuzhi Ge
 
-<em>Tools</em>: MATLAB, Simulink and Solidworks
+<b>Tools</b>: MATLAB, Simulink and Solidworks
 
 ## Abstract
 
