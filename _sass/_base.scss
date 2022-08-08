@@ -22,12 +22,15 @@ table {
 }
 
 a, table.table a {
+  text-align:justify;
   color: var(--global-theme-color);
   &:hover {
+    text-align:justify;
     color: var(--global-theme-color);
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
+    text-align:justify;
     width: 100%;
   }
 }
