@@ -5,6 +5,7 @@
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+  text-align:justify;
   color: var(--global-text-color);
 }
 
@@ -22,15 +23,12 @@ table {
 }
 
 a, table.table a {
-  text-align:justify;
   color: var(--global-theme-color);
   &:hover {
-    text-align:justify;
     color: var(--global-theme-color);
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
-    text-align:justify;
     width: 100%;
   }
 }
