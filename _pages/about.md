@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Intern @ SonyAI | NUS Alumna//
-Vision: Enable robots to interact with the environment just like humans do!
+subtitle: Intern @ SonyAI | NUS Alumna
 
 profile:
   align: right
