@@ -4,4 +4,4 @@ date: 2020-01-31 15:59:00-0400
 inline: true
 ---
 
-Completed my M.Sc. in Electrical Engineering from NUS, Singapore 🎓.
+Graduated from NUS, Singapore with a M.Sc. in Electrical Engineering 🎓.
