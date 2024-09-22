@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 2
-description: Framework of Repetitive Path Planning & Control for UR5 Manipulator
-img: assets/img/3.jpg
+description: Path Planning of Mobile Robot Manipulators - Part 2
+img: assets/img/project1.png
 importance: 2
 category: academic
 ---
@@ -11,31 +11,10 @@ category: academic
 
 <b>Supervisor</b>: Prof. Sam Shuzhi Ge
 
-<b>Tools</b>: MATLAB, Simulink and Solidworks
-
 ## Abstract
 
 <div align="justify">
-For the past few years, manipulators have been used for a number of different applications mainly due to their cost-effectiveness and flexibility, apart from other numerous advantages they offer. With the thought of exploring manipulators in detail, I have developed a complete path planning and control framework for a manipulator in this project, giving an insight into the area of planning for the UR5 manipulator (case study). The kinematic equations are first derived, following which the computed-torque controller is designed with the help of the dynamic equations. For path planning, a repetitive motion planning (RMP) scheme is analyzed and implemented on the manipulator. The models for the same are developed in Simulink while Simscape Multibody presents a new way of visualizing the model and observing its movement. Simulations are carried out at a later stage to verify whether the results obtained have substantiated the planning model or not.</div>
-
-## Demo
-
-<center>
-<div id="videoal">
-    <div class="video">
-        <video controls>
-            <source src="/assets/img/ur_bef_cont.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div class="video">
-       <video controls>
-           <source src="/assets/img/ur_aft_cont.mp4" type="video/mp4">
-       </video>
-    </div>
-</div>
-<div class="caption">
-Visualization of the manipulator before and after implementation of the scheme and controller
-</div>
-</center>
-
-
+When a mobile manipulator tracks a defined path, it must be ensured that both the manipulator and the mobile base are simultaneously obeying the set parameters and conditions efficiently. However, this task can become challenging if the scheme is non-repetitive in nature and the system is redundant and bound
+by limits, which if not considered can lead to a rise in non-linearities. In this paper, we present a planning scheme that helps solve these issues. Another topic of prime concern is limits of the system. When the mobile robot is working towards an assigned task in any environment, it becomes important to make sure that the system obeys its limits; exceeding them would cause damage to it in the long run. A solution to overcome these issues has been presented within this paper, wherein we propose a motion planning scheme for mobile robot manipulators (MRM), one which can readily handle these limits and also
+solve the hassle of redundancy. We begin by establishing the kinematic model and thereby solve the linear system we have formed. We then describe the design methodology of the scheme which is based on the neurodynamics model and makes use of defined error functions. Further, simulations of the MRM
+synthesized by the proposed planing scheme is implemented with the results illustrated to verify its performance.
